@@ -32,6 +32,7 @@ int main()
 	{
 		scanf("%d", &A[i]);
 	}
+	#hello
 	h = maxi(A, n);
 	l = mini(A, n);
 	int range = h - l + 1;
